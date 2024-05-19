@@ -1,0 +1,10 @@
+C:\Users\mrgam\Documents\CSharpLearning\CalificadorNotas\bin\Debug\CalificadorNotas.exe.config
+C:\Users\mrgam\Documents\CSharpLearning\CalificadorNotas\bin\Debug\CalificadorNotas.exe
+C:\Users\mrgam\Documents\CSharpLearning\CalificadorNotas\bin\Debug\CalificadorNotas.pdb
+C:\Users\mrgam\Documents\CSharpLearning\CalificadorNotas\obj\Debug\CalificadorNotas.csproj.AssemblyReference.cache
+C:\Users\mrgam\Documents\CSharpLearning\CalificadorNotas\obj\Debug\CalificadorNotas.Form1.resources
+C:\Users\mrgam\Documents\CSharpLearning\CalificadorNotas\obj\Debug\CalificadorNotas.Properties.Resources.resources
+C:\Users\mrgam\Documents\CSharpLearning\CalificadorNotas\obj\Debug\CalificadorNotas.csproj.GenerateResource.cache
+C:\Users\mrgam\Documents\CSharpLearning\CalificadorNotas\obj\Debug\CalificadorNotas.csproj.CoreCompileInputs.cache
+C:\Users\mrgam\Documents\CSharpLearning\CalificadorNotas\obj\Debug\CalificadorNotas.exe
+C:\Users\mrgam\Documents\CSharpLearning\CalificadorNotas\obj\Debug\CalificadorNotas.pdb
